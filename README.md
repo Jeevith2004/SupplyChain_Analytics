@@ -1,7 +1,22 @@
 <h1> <p style="text-align: center";>  <B> SupplyChain Analytics </B> 
 
- ### Problem Statement: Enhancing Supply Chain Efficiency & Profitability through Data-Driven Insights
+ <h2> Problem Background </h2>
 
+ A DataSet of Supply Chains used by The company DataCo Global  of  information management consultancy providing a comprehensive service to the upstream oil and gas industry.
+
+ The Company has significant amounts of data on its Supply chain efficiency,profitability and revenue ,Warehouse and inventory details.
+ 
+Insights and recommendations are produced on the following key areas:
+
+- Supply Chain Efficiency → Metrics: On-Time Delivery Rate, Lead Time, Order Fulfillment Rate → To optimize logistics and reduce delays.
+ 
+- Profitability & Revenue → Metrics: Gross Profit Margin, Revenue Growth, Cost per Order → To assess financial performance and maximize earnings.
+
+- Markets & Customer Insights → Metrics: Customer Retention Rate, Sales by Region, Average Order Value → To identify growth opportunities and improve customer engagement.
+
+- Warehouse & Inventory Details → Metrics: Inventory Turnover, Stockout Rate, Warehouse Utilization → To enhance inventory management and reduce holding costs.
+
+ An interactive dashboard can be downloaded 
 ### About Project 👨‍💻
 
 - In modern supply chain management, inefficiencies in order fulfillment, delivery delays, and inventory turnover can lead to increased costs and reduced profitability. Companies struggle with shipment delays, suboptimal inventory management, and fluctuating profit margins due to a lack of real-time visibility into key performance metrics.
