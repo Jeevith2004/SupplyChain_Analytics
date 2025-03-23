@@ -25,6 +25,8 @@
   <h2> Data Structure & Initial checks </h2>
 
   ![Screenshot 2025-03-23 225737](https://github.com/user-attachments/assets/3757f4f5-9201-4185-b558-0f4adf8ed923) 
+![Screenshot 2025-03-23 232827](https://github.com/user-attachments/assets/e875a691-bd79-4d64-929a-c126696fd551)
+
 
   
   <h2> Executive Summary </h2>
@@ -49,9 +51,8 @@ However, some positive trends were observed:
 
  Below is the KPI page from the PowerBI dashboard and more examples are included throughout the report.
 
+![Screenshot 2025-03-16 154909](https://github.com/user-attachments/assets/48238ab8-718e-4d9c-aa5d-b1bb96a842ca)
 
-   C:\Users\Jeevith.A.S\OneDrive\Pictures\Screenshots\Screenshot 2025-03-23 231813.png
-   ![Screenshot 2025-03-23 231813](https://github.com/user-attachments/assets/2b604b9a-9be3-40aa-9522-86de93f226c6)
 
 
  <h4> SupplyChain Efficiency </h4>
