@@ -16,7 +16,7 @@
 
 - Warehouse & Inventory Details → Metrics: Inventory Turnover, Stockout Rate, Warehouse Utilization → To enhance inventory management and reduce holding costs.
 
- An interactive dashboard can be downloaded [here](https://d.docs.live.net/FBC0932A75D18E8C/Documents/Desktop/DataCoSupplyChainDataset.xlsx)
+ An interactive dashboard can be downloaded [here](https://github.com/Jeevith2004/SupplyChain_Analytics/raw/main/SupplyChain_Analytics.pbix)
 
  The Excel Spreadsheet utilized to inspect and perform quality checks can be found [here](https://d.docs.live.net/FBC0932A75D18E8C/Documents/Desktop/DataCoSupplyChainDataset.xlsx)
 
