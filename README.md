@@ -20,7 +20,7 @@
 
  The Excel Spreadsheet utilized to inspect and perform quality checks can be found [here](https://d.docs.live.net/FBC0932A75D18E8C/Documents/Desktop/DataCoSupplyChainDataset.xlsx)
 
- The Excel spreadsheet aftre cleaning and preprocessing data can be found [here](https://d.docs.live.net/FBC0932A75D18E8C/Documents/Desktop/DataCoSupplyChainDataset.xlsx)
+ The Excel spreadsheet aftre cleaning and preprocessing data can be found [here](https://1drv.ms/x/c/fbc0932a75d18e8c/EaJ_xrpbE2BImLfkzXbTfv8B9LiDpgBbpUuf4Zy8v4lKdA?e=ZnKAiv)
 
   <h2> Data Structure & Initial checks </h2>
   
